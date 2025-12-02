@@ -28,17 +28,17 @@ I've been building production AI systems for the past year and decided to start 
 <table>
   <tr>
     <td align="center" style="padding:20px">
-      <img src="https://raw.githubusercontent.com/mrborntobuild/mrborntobuild/main/assets/langchain-logo.png" alt="LangChain" height="60"><br>
+      <img src="https://bkejwogytnyytefptsyc.supabase.co/storage/v1/object/public/other/Screenshot-3112.png.webp" alt="LangChain" height="60"><br>
       <b>LangChain</b><br>
       <sub>Orchestration & Agents</sub>
     </td>
     <td align="center" style="padding:20px">
-      <img src="https://raw.githubusercontent.com/mrborntobuild/mrborntobuild/main/assets/langsmith-logo.png" alt="LangSmith" height="60"><br>
+      <img src="https://bkejwogytnyytefptsyc.supabase.co/storage/v1/object/public/other/6735feedcb1ccfd5781f3bea_AI_19_langsmith.webp" alt="LangSmith" height="60"><br>
       <b>LangSmith</b><br>
       <sub>Observability & Testing</sub>
     </td>
     <td align="center" style="padding:20px">
-      <img src="https://raw.githubusercontent.com/mrborntobuild/mrborntobuild/main/assets/openrouter-logo.png" alt="OpenRouter" height="60"><br>
+      <img src="https://bkejwogytnyytefptsyc.supabase.co/storage/v1/object/public/other/2025-05-19_OpenRouter+SN_v1.2.jpg" alt="OpenRouter" height="60"><br>
       <b>OpenRouter</b><br>
       <sub>Model Routing & APIs</sub>
     </td>
