@@ -18,7 +18,7 @@ I've been building production AI systems for the past year and decided to start 
 
 ---
 
-## 🎯 Featured Project
+## 🎯 Projects
 
 <div align="center">
 <table>
