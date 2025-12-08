@@ -18,7 +18,7 @@ I've been building production AI systems for the past year and decided to start 
 
 ---
 
-## 🎯 Projects
+## 🎯 Featured Project
 
 <div align="center">
 <table>
@@ -36,6 +36,49 @@ I've been building production AI systems for the past year and decided to start 
   <tr>
     <td><b>🔗 Link</b></td>
     <td><a href="https://sales-engineer-interview.vercel.app">Try it Out</a></td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🚀 Coming Soon
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" style="padding:20px">
+      <h3>🤝 Managing Team with a Slack Agent</h3>
+      <sub><b>Release: Dec 9</b></sub>
+    </td>
+    <td align="center" style="padding:20px">
+      <h3>📝 Meeting Summary Agent</h3>
+      <sub><b>Coming: Dec 10</b></sub>
+    </td>
+    <td align="center" style="padding:20px">
+      <h3>🔍 AI Internal Documentation Search Agent</h3>
+      <sub><b>Coming: Dec 11</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:20px">
+      <h3>✅ Automated Task Generation Agent</h3>
+      <sub><b>Coming: Dec 12</b></sub>
+    </td>
+    <td align="center" style="padding:20px">
+      <h3>📧 Client Ready Email Agent</h3>
+      <sub><b>Coming: Dec 13</b></sub>
+    </td>
+    <td align="center" style="padding:20px">
+      <h3>🎯 Smart Meeting Prep Agent</h3>
+      <sub><b>Coming: Dec 14</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:20px" colspan="3">
+      <h3>🧠 Voice Recordings to Digital Brain Agent</h3>
+      <sub><b>Coming: Dec 15</b></sub>
+    </td>
   </tr>
 </table>
 </div>
