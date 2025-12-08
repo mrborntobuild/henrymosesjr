@@ -34,12 +34,8 @@ I've been building production AI systems for the past year and decided to start 
     <td><a href="https://github.com/mrborntobuild/tavus-api-guide/blob/main/n8n/tavus_n8n.json">View Workflow</a></td>
   </tr>
   <tr>
-    <td><b>🎥 Demo Video</b></td>
-    <td><a href="YOUR_DEMO_VIDEO_LINK">Watch Demo</a></td>
-  </tr>
-  <tr>
     <td><b>🔗 Link</b></td>
-    <td><a href="YOUR_PROJECT_LINK">Try it Out</a></td>
+    <td><a href="https://sales-engineer-interview.vercel.app">Try it Out</a></td>
   </tr>
 </table>
 </div>
